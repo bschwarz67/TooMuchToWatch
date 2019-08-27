@@ -1,4 +1,4 @@
-This is a project I did during the Fall 2018 semester for the class Comp 2150 - Object Oriented Programming/Data Structures at University of Memphis.
+This is a project I did during the Fall 2018 semester for the class COMP 2150 - Object Oriented Programming/Data Structures at University of Memphis.
 The project is titled "Too Much To Watch." The program reads and parses a textfile containig information on movies in Tv shows,
 stores this data in objects,and puts the objects into a linkedlist. It allows the user to filter the list based on contraints such as date
 and rating.
