@@ -1,4 +1,4 @@
-package cs_2150_project_Bryan_Schwarz;
+package tooMuchToWatch;
 
 //class to hold information for filters designated by the user
 public class Filter implements Comparable<Filter>{
