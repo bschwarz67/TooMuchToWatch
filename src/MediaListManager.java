@@ -1,4 +1,4 @@
-package cs_2150_project_Bryan_Schwarz;
+package tooMuchToWatch;
 
 import java.util.LinkedList;
 import java.util.ArrayList;
