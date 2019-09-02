@@ -1,4 +1,4 @@
-package cs_2150_project_Bryan_Schwarz;
+package tooMuchToWatch;
 
 
 //class to store information about each line in the text file
